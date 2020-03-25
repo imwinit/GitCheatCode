@@ -1,2 +1,2 @@
 # GitCheatCode
-This repo contains Git commands which comes. in-handy.
+This repo contains Git commands which comes in-handy.
